@@ -1,0 +1,23 @@
+{
+  "name": "json-to-sass",
+  "version": "0.0.1",
+  "description": "Simple node module to convert json to sass variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathan-fielding/json-to-sass.git"
+  },
+  "keywords": [
+    "sass",
+    "json"
+  ],
+  "author": "Jonathan Fielding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathan-fielding/json-to-sass/issues"
+  },
+  "homepage": "https://github.com/jonathan-fielding/json-to-sass#readme"
+}
