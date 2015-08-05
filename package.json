@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/jonathan-fielding/json-to-sass/issues"
   },
-  "homepage": "https://github.com/jonathan-fielding/json-to-sass#readme"
+  "homepage": "https://github.com/jonathan-fielding/json-to-sass#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "bin": {
+      "json-to-sass" : "cli.js"
+  }
 }
